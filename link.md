@@ -22,7 +22,7 @@ permalink: /links/
 
 -[:D][link5]
 
-[link5]: tinytuba.com
+[link5]: http://tinytuba.com
 
 
 
