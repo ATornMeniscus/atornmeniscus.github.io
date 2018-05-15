@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>7.4</title>
+</head>
+<body>
+<script type="text/javascript">
+while(true) {
+	var score=eval(prompt("What was your score on the quiz?"));
+	if(score<0) {
+	alert("Error. Grade cannot be less than 0.");
+	continue;
+	}
+	if(score>=90 && score<=92)
+	{ alert("You got an A-");}
+	else if(score>=93 && score<=100)
+	{ alert("You got an A");}
+	else if(score>100)
+	{ alert("You got an A+");}
+	else if(score>=80 && score<90)
+	{ alert("You got a B");}
+	else if(score>=70 && score<80)
+	{ alert("You got a C");}
+	else if(score>=60 && score<70)
+	{ alert("You got a D");}
+	else
+	{ alert("You got a F");}
+	var answer=prompt("Enter another grade?");
+	if(answer!="yes" || answer!="ok"){
+		break;
+	}
+}
+</script>
+</body>
+</html>

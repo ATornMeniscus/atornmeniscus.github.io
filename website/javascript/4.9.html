@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>4.9</title>
+</head>
+<body>
+<script>
+function myFunction() {
+	document.body.style.backgroundColor="black";
+	document.getElementById("p").style.color="white";
+}
+function myFunction2() {
+	document.body.style.backgroundColor="white";
+	document.getElementById("p").style.color="black";
+}
+</script>
+<form>
+<input type="button" value="Night Mode" onClick="myFunction()">
+<input type="button" value="Day Mode" onClick="myFunction2()">
+</form>
+<p id="p">Text</p>
+</body>
+</html>
