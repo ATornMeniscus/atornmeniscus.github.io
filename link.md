@@ -14,7 +14,7 @@ permalink: /links/
 
 -[ADDing with Ryan!!!][link3]
 
--[link3]: https://youtube.com/higatv
+[link3]: https://youtube.com/higatv
 
 -[Practice][link4]
 
