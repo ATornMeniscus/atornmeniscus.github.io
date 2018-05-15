@@ -18,7 +18,7 @@ permalink: /links/
 
 -[Practice][link4]
 
-[link4]: https://lingling40hours.com
+[link4]: http://lingling40hours.com
 
 -[:D][link5]
 
