@@ -1,0 +1,152 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#center {
+		float: center;
+		width: 300px;
+}
+/* b a c k g r o u n d s */
+/*bake file*/
+.baguette {
+	background-image:url(images/backg/bakebg.jpg);
+	border: #6D3706 double;
+	}
+.berrycake {
+	background-image:url(images/backg/bakebg.jpg);
+	border: #6D3706 double;
+	}
+.bread {
+	background-image:url(images/backg/bakebg.jpg);
+	border: #6D3706 double;}
+.brownie {
+	background-image:url(images/backg/bakebg.jpg);
+	border: #6D3706 double;}
+.cake {
+	background-image:url(images/backg/bakebg.jpg);
+	border: #6D3706 double;}
+.cheesecake {
+	background-image:url(images/backg/dessertbg2.gif);
+	border: #6D3706 double;}
+.cookie_ {
+	background-image: url(images/backg/bakebg.jpg);
+	border: #6D3706 double;}
+.cookies_{
+	background-image:url(images/backg/bakebg.jpg);
+	border: #6D3706 double;}
+.croissant{
+	background-image:url(images/backg/bakebg.jpg);
+	border: #6D3706 double;}
+
+/*dessert file*/
+.chocolatemousse {
+	background-image:url(images/backg/dessertbg2.gif);
+	border:#9D6D00 dashed;}
+.churros{
+	background-image:url(images/backg/dessertbg2.gif);
+	border:#9D6D00 dashed;}
+.gelato{
+	background-image:url(images/backg/dessertbg2.gif);
+	border:#9D6D00 dashed;}
+.taiyaki{
+	background-image:url(images/backg/dessertbg2.gif);
+	border:#9D6D00 dashed;}
+/*drinks file*/
+.coffee {
+	background-image:url(images/backg/drinkbg.jpg);
+	border: #7D4700 inherit;}
+.coke{
+	background-image:url(images/backg/drinkbg.jpg);
+	border: #7D4700 inherit;}
+.drpepper{
+	background-image:url(images/backg/drinkbg.jpg);
+	border: #7D4700 inherit;}
+.jarritos{
+	background-image:url(images/backg/drinkbg.jpg);
+	border: #7D4700 inherit;}
+.tea{
+	background-image:url(images/backg/drinkbg.jpg);
+	border: #7D4700 inherit;}
+/*fast*/
+.fries{
+	background-image:url(images/backg/fastfoodbackground.gif);
+	border: #7D4700 dotted;}
+.hotdog{
+	background-image:url(images/backg/junkfood.gif);
+	border: #7D4700 dotted;}
+.pizza{
+	background-image:url(images/backg/fastfoodbackground.gif);
+	border: #7D4700 dotted;}
+/*fruit*/
+.cherry{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.grape{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.mango{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.pineapple{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+/*junk*/
+.nacho{
+	background-image:url(images/backg/junkfood.gif);
+	border: #7D4700 inherit;}
+.pringles{
+	background-image:url(images/backg/fastfoodbackground.gif);
+	border: #7D4700 inherit;}
+/*meat*/
+.chicken{
+	background-image:url(images/backg/meatbg.jpg);
+	border: #7D4700 inherit;}
+.fish{
+	background-image:url(images/backg/meatbg.jpg);
+	border: #7D4700 inherit;}
+.escargot{
+	background-image:url(images/backg/meatbg.jpg);
+	border: #7D4700 inherit;}
+.lamb{
+	background-image:url(images/backg/meatbg.jpg);
+	border: #7D4700 inherit;}
+.steak{
+	background-image:url(images/backg/meatbg.jpg);
+	border: #7D4700 inherit;}
+/*sweets*/
+.haribo{
+	background-image:url(images/backg/dessertbg.jpg);
+	border: #7D4700 inherit;}
+.kitkat{
+	background-image:url(images/backg/dessertbg.jpg);
+	border: #7D4700 inherit;}
+.milkshake{
+	background-image:url(images/backg/dessertbg.jpg);
+	border: #7D4700 inherit;}
+.skittles{
+	background-image:url(images/backg/dessertbg.jpg);
+	border: #7D4700 inherit;}
+.trolli{
+	background-image:url(images/backg/dessertbg.jpg);
+	border: #7D4700 inherit;}
+/*vegetable*/
+.avocado{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.bellpepper{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.bokchoy{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.broccoli{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.carrot{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.celery{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
+.zucchini{
+	background-image:url(images/backg/fruitbackground.jpg);
+	border: #7D4700 inherit;}
