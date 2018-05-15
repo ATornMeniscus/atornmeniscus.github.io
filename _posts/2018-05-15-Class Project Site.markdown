@@ -8,6 +8,6 @@ author: atornmeniscus
 In seventh grade I took Intro to Programming, which taught the basics of HTML, CSS, and JavaScript. 
 Our teacher made us code a website at the beginning of the year using the basics of HTML:
 
-[click here][abc]
+[Class Project Site][abc]
 
 [abc]: /website/
