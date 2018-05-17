@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Narnia"
+date:   2018-05-17 10:25:30 -0700
+categories: uncategorized
+author: SBYpotato
+---
+
+Hello Emma, you are ... great.
+
+to avoid awkward conversation, I'm going to disappear [here][url].
+
+[url]:https://www.youtube.com/watch?v=rY-FJvRqK0E
+
